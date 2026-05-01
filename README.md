@@ -61,6 +61,16 @@ Star Wars (1977)
 ---
 
 ## 📂 Project Structure
+
+movie-recommendation-system/
+ │── recommendation_system.ipynb
+ │── README.md
+ │── requirements.txt
+ │── screenshots/
+    ├── user_recommendation.png
+    ├── similar_movies.png
+    ├── ratings_distribution.png
+
 ---
 
 ## 🔮 Future Improvements
